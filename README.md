@@ -30,13 +30,13 @@ git clone https://github.com/kadiriayman96/TO-DO-LIST.git
 2. Accédez au répertoire du projet :
 
 ```bash
-cd TODO-AK
+cd TO-DO-LIST
 ```
 
 3. Compilez le code source :
 
 ```bash
-gcc main.c -o TODO-AK
+gcc main.c -o TO-DO-LIST
 ```
 
 ### Utilisation
