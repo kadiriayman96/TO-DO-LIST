@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1710946596 source:c:\users\mugiwara\desktop\mern stack\language c algorithme\mini_projet_sas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1710948371 source:c:\users\mugiwara\desktop\mini_projet_sas_headcode\main.c
+	<stdio.h>
+	"tache_manager.h"
+
+1710948108 source:c:\users\mugiwara\desktop\mini_projet_sas_headcode\tache_manager.c
+	"tache_manager.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1710948314 c:\users\mugiwara\desktop\mini_projet_sas_headcode\tache_manager.h
+	<stdbool.h>
+
